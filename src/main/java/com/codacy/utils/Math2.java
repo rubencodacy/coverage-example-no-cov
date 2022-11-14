@@ -23,20 +23,6 @@ public class Math2 {
         } else {
             System.out.println("hey");
             System.out.println("hey");
-            System.out.println("hey");
-            System.out.println("hey");
-            System.out.println("hey");
-            System.out.println("hey");
-            System.out.println("hey");
-            System.out.println("hey");
-            System.out.println("hey");
-            System.out.println("hey");
-            System.out.println("hey");
-            System.out.println("hey");
-            System.out.println("hey");
-            System.out.println("hey");
-            System.out.println("hey");
-            System.out.println("hey");
             return x + y;
         }
     }
